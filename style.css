@@ -1,0 +1,271 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+				
+* {
+  margin: 0;
+  padding: 0;
+	overflow: hidden;
+}
+				
+html,body {
+  width: 100%;
+  height: 100%;
+	overflow: hidden;
+}
+
+body {
+	overflow: hidden;
+	--mainColour: #1D0C3B;
+	--complimentColour: #261348;
+	--fontColour: rgb(255, 255, 255);
+	--buttonColour: rgba(120, 120, 170, 1.0);
+	--panelWidth: 390px;
+	--smallerPanelWidth: 255px;
+	--panelSpacing: 2vw;
+	--mirrorAngle: 180deg;
+}
+
+.sidebar {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	padding: 0;
+	margin: 0;
+	z-index: 200;
+	display: flex;
+	flex-direction: column;
+}
+
+.sidebar > div {
+	position: relative;
+	top: 0;
+	left: 0;
+	display: flex;
+	flex-direction: column;
+	width: 250px;
+	height: 100%;
+	overflow-y: hidden;
+	overflow-x: hidden;
+	padding: 0;
+	margin: 0;
+	background: rgba(0, 0, 0, 0);
+}
+
+.sidebar > div > h1 {
+	position: relative;
+	top: 20px;
+	left: 0;
+	font-family: Montserrat, sans-serif;
+	width: 100%;
+	font-weight: 100;
+	font-size: 20px;
+	letter-spacing: 1px;
+	color: rgb(255, 255, 255);
+	text-align: center;
+	margin-bottom: 20px;
+	background: #0B0C23;
+	border-radius: 2px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+.sidebar > div > div {
+	position: relative;
+	top: 20px;
+	left: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	height: fit-content;
+	overflow-y: auto;
+	overflow-x: hidden;
+	background: #0B0C23;
+	border-radius: 2px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.sidebar > div > div > h2 {
+	position: relative;
+	font-family: Montserrat, sans-serif;
+	font-weight: 100;
+	font-size: 15px;
+	letter-spacing: 0.8px;
+	color: rgb(255, 255, 255);
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.sidebar > div > div > p {
+	position: relative;
+	font-family: Montserrat, sans-serif;
+	font-weight: 100;
+	font-size: 15px;
+	letter-spacing: 0.8px;
+	color: rgb(255, 255, 255);
+	text-align: left;
+	width: 200px;
+	margin-bottom: 10px;
+}
+
+.sidebar > div > div > input {
+	-webkit-appearance: none;
+  appearance: none;
+	position: relative;
+	width: 200px;
+	height: 10px;
+	border: none;
+	outline: none;
+	border-radius: 2px;
+	background: var(--complimentColour);
+}
+
+.sidebar > div > div > input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 30px;
+  height: 10px;
+	min-height: 10px;
+  background: rgb(150, 150, 255);
+  cursor: pointer;
+	border-radius: 2px;
+}
+
+.sidebar > div > div > button {
+	width: 200px;
+	height: 40px;
+	background: rgb(150, 150, 255);
+	box-shadow: 0px 5px 0px rgb(109, 109, 192);
+	transform: translateY(0px);
+	font-family: Montserrat, sans-serif;
+	font-weight: 100;
+	font-size: 15px;
+	letter-spacing: 0.8px;
+	color: rgb(13, 13, 13);
+	border: none;
+	outline: none;
+	border-radius: 3px;
+	cursor: pointer;
+	transition: 0.1s linear;
+}
+
+.sidebar > div > div > button:hover {
+	transform: translateY(3px);
+	box-shadow: 0px 2px 0px rgb(109, 109, 192);
+}
+
+.sidebar > div > div > select {
+	display: block;
+	width: 200px;
+	min-width: 200px;
+	height: 40px;
+	min-height: 40px;
+	background: var(--mainColour);
+	color: var(--fontColour);
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	font-weight: 100;
+	letter-spacing: 1px;
+	text-align: left;
+	border: 2px solid var(--complimentColour);
+	border-radius: 2px;
+	outline: none;
+	padding: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: 10px;
+	transition: 0.15s linear;
+}
+
+
+.crosshair {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	padding: 10px;
+	z-index: 200;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	pointer-events: none;
+	opacity: 0;
+}
+
+.crosshair > div {
+	width: 7px;
+	height: 7px;
+	border: none;
+	outline: none;
+	border-radius: 50%;
+	backdrop-filter: invert();
+}
+
+
+.resolutionSelect {
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	width: 100vw;
+	height: 100vh;
+	background: rgb(13, 13, 13);
+	z-index: 200;
+}
+
+.resolutionSelect > img {
+	position: absolute;
+	width: 100%;
+	background-image: url("/background.png");
+	background-size: cover;
+	filter: brightness(50%);
+	z-index: -200;
+}
+
+.resolutionSelect > h1 {
+	width: 100%;
+	height: 12%;
+	padding: 0;
+	border: none;
+	outline: none;
+	background: rgba(0, 0, 0, 0);
+	font-family: Montserrat, sans-serif;
+	font-weight: 100;
+	font-size: 30px;
+	letter-spacing: 0.8px;
+	color: rgb(255, 255, 255);
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	pointer-events: none;
+}
+
+.resolutionSelect > button {
+	position: relative;
+	width: 100%;
+	height: 11%;
+	padding: 0;
+	border: none;
+	border-radius: 2px;
+	outline: none;
+	background: rgba(0, 0, 0, 0);
+	font-family: Montserrat, sans-serif;
+	font-weight: 100;
+	font-size: 15px;
+	letter-spacing: 0.8px;
+	color: rgba(255, 255, 255, 0.6);
+	text-align: center;
+	cursor: pointer;
+}
+
+.resolutionSelect > button:hover {
+	color: rgba(255, 255, 255, 1);
+}
