@@ -8,4 +8,4 @@ The program makes use of a technique called [raymarching](https://en.wikipedia.o
 
 ## Website
 
-[click here for wesbite](https://gamedev46.github.io/fractal_raytracer/)
+You can run the program in realtime [here, on its website](https://gamedev46.github.io/fractal_raytracer/) as it is programmed using HTML, CSS, JS and GLSL which is implemented using the WebGL shader library
