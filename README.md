@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Version-1.1.7-green
+![Static Badge](https://img.shields.io/badge/Version-1.1.7-green)
 
 # fractal_raytracer
 
