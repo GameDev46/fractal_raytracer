@@ -25,8 +25,8 @@
 </a>
 
 <div align="left">
-<a href="https://gamedev46.github.io/fractal_raytracer/"><
-    img src="https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&labelColor=1f1f22" alt="View site - GH Pages">
+<a href="https://gamedev46.github.io/fractal_raytracer/">
+    <img src="https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&labelColor=1f1f22" alt="View site - GH Pages">
 </a>
 </div>
 
