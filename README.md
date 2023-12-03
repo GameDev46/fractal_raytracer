@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
 
 <a href="https://github.com/GameDev46/fractal_raytracer" title="Go to GitHub repo">
-    <img src="https://img.shields.io/static/v1?label=GameDev46&message=fractal_raytracer&color=Green&logo=github&style=for-the-badge" alt="GameDev46 - fractal_raytracer">
+    <img src="https://img.shields.io/static/v1?label=GameDev46&message=fractal_raytracer&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
 </a>
 <a href="https://github.com/GameDev46/fractal_raytracer">
     <img src="https://img.shields.io/github/stars/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="stars - fractal_raytracer">
@@ -17,11 +17,11 @@
 <a href="#license"><img src="https://img.shields.io/badge/License-MIT-Green" alt="License"></a>
 <a href="https://github.com/GameDev46/fractal_raytracer/issues"><img src="https://img.shields.io/github/issues/GameDev46/fractal_raytracer" alt="issues - fractal_raytracer"></a>
 
-<div align="center">
-<a href="https://gamedev46.github.io/fractal_raytracer/"><img src="https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge" alt="View site - GH Pages"></a>
+<div align="left">
+<a href="https://gamedev46.github.io/fractal_raytracer/"><
+    img src="https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&labelColor=1f1f22" alt="View site - GH Pages">
+</a>
 </div>
-
-<a href="https://github.com/GameDev46">@GameDev46</a>
 
 <p align="left">
 <a href="https://twitter.com/gamedev46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamedev46" height="30" width="40" /></a>
