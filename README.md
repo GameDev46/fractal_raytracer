@@ -1,4 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/Version-1.1.7-green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Version-1.1.7-green?style=for-the-badge&logo=JavaScript)
 
 # fractal_raytracer
 
