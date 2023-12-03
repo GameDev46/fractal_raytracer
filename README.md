@@ -8,6 +8,7 @@
 </a>
 
 <br>
+<br>
     
 <a href="https://github.com/GameDev46/fractal_raytracer">
     <img src="https://img.shields.io/github/stars/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="stars - fractal_raytracer">
