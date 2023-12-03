@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
 
-![Static Badge](https://img.shields.io/github/contributors/badges/shields)
+![Static Badge](https://img.shields.io/github/contributors/badges/gamedev46)
 ![Static Badge](https://img.shields.io/opencollective/backers/shields)
 ![Static Badge](https://img.shields.io/opencollective/sponsors/shields)
 ![Static Badge](https://img.shields.io/github/commit-activity/m/badges/shields)
