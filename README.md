@@ -17,6 +17,9 @@
     <img src="https://img.shields.io/github/forks/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="forks - fractal_raytracer">
 </a>
 
+<br>
+<br>
+
 <a href="https://github.com/GameDev46/fractal_raytracer/releases/">
     <img src="https://img.shields.io/github/tag/GameDev46/fractal_raytracer?include_prereleases=&sort=semver&color=Green&style=for-the-badge&labelColor=1f1f22" alt="GitHub tag">
 </a>
