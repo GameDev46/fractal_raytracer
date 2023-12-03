@@ -1,3 +1,5 @@
+https://img.shields.io/badge/Version-1.1.7-green
+
 # fractal_raytracer
 
 A 3D fractal renderer that creates high resolution photorealistic images of your own custom fractals, why not even take a flight around them in flight mode...
