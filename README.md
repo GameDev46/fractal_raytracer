@@ -11,19 +11,11 @@
 <a href="#license"><img src="https://img.shields.io/badge/License-MIT-Green" alt="License"></a>
 <a href="https://github.com/GameDev46/fractal_raytracer/issues"><img src="https://img.shields.io/github/issues/GameDev46/fractal_raytracer" alt="issues - fractal_raytracer"></a>
 
-<i>Call-to-Action buttons</i>
-
 <div align="center">
 <a href="https://gamedev46.github.io/fractal_raytracer/"><img src="https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge" alt="View site - GH Pages"></a>
-
 </div>
-<h2>Documentation</h2>
-<div align="center">
-<a href="/docs/" title="Go to project documentation"><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="view - Documentation"></a>
 
-</div>
-<h2>License</h2>
-Released under <a href="/LICENSE">MIT</a> by <a href="https://github.com/GameDev46">@GameDev46</a>.
+<a href="https://github.com/GameDev46">@GameDev46</a>
 
 <p align="left">
 <a href="https://twitter.com/gamedev46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamedev46" height="30" width="40" /></a>
