@@ -3,6 +3,32 @@
 ![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
 
+<i>Social buttons</i>
+
+<a href="https://github.com/GameDev46/fractal_raytracer" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=GameDev46&message=fractal_raytracer&color=Green&logo=github" alt="GameDev46 - fractal_raytracer"></a>
+<a href="https://github.com/GameDev46/fractal_raytracer"><img src="https://img.shields.io/github/stars/GameDev46/fractal_raytracer?style=social" alt="stars - fractal_raytracer"></a>
+<a href="https://github.com/GameDev46/fractal_raytracer"><img src="https://img.shields.io/github/forks/GameDev46/fractal_raytracer?style=social" alt="forks - fractal_raytracer"></a>
+
+<i>Repo metadata</i>
+
+<a href="https://github.com/GameDev46/fractal_raytracer/releases/"><img src="https://img.shields.io/github/tag/GameDev46/fractal_raytracer?include_prereleases=&sort=semver&color=Green" alt="GitHub tag"></a>
+<a href="#license"><img src="https://img.shields.io/badge/License-MIT-Green" alt="License"></a>
+<a href="https://github.com/GameDev46/fractal_raytracer/issues"><img src="https://img.shields.io/github/issues/GameDev46/fractal_raytracer" alt="issues - fractal_raytracer"></a>
+
+<i>Call-to-Action buttons</i>
+
+<div align="center">
+<a href="https://gamedev46.github.io/fractal_raytracer/"><img src="https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge" alt="View site - GH Pages"></a>
+
+</div>
+<h2>Documentation</h2>
+<div align="center">
+<a href="/docs/" title="Go to project documentation"><img src="https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge" alt="view - Documentation"></a>
+
+</div>
+<h2>License</h2>
+Released under <a href="/LICENSE">MIT</a> by <a href="https://github.com/GameDev46">@GameDev46</a>.
+
 <p align="left">
 <a href="https://twitter.com/gamedev46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamedev46" height="30" width="40" /></a>
 <a href="https://instagram.com/oliver_pearce47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oliver_pearce47" height="30" width="40" /></a>
