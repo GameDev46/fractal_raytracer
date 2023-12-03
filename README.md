@@ -6,6 +6,9 @@
 <a href="https://github.com/GameDev46/fractal_raytracer" title="Go to GitHub repo">
     <img src="https://img.shields.io/static/v1?label=GameDev46&message=fractal_raytracer&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
 </a>
+
+<br>
+    
 <a href="https://github.com/GameDev46/fractal_raytracer">
     <img src="https://img.shields.io/github/stars/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="stars - fractal_raytracer">
 </a>
@@ -13,9 +16,13 @@
     <img src="https://img.shields.io/github/forks/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="forks - fractal_raytracer">
 </a>
 
-<a href="https://github.com/GameDev46/fractal_raytracer/releases/"><img src="https://img.shields.io/github/tag/GameDev46/fractal_raytracer?include_prereleases=&sort=semver&color=Green" alt="GitHub tag"></a>
-<a href="#license"><img src="https://img.shields.io/badge/License-MIT-Green" alt="License"></a>
-<a href="https://github.com/GameDev46/fractal_raytracer/issues"><img src="https://img.shields.io/github/issues/GameDev46/fractal_raytracer" alt="issues - fractal_raytracer"></a>
+<a href="https://github.com/GameDev46/fractal_raytracer/releases/">
+    <img src="https://img.shields.io/github/tag/GameDev46/fractal_raytracer?include_prereleases=&sort=semver&color=Green&style=for-the-badge&labelColor=1f1f22" alt="GitHub tag">
+</a>
+
+<a href="https://github.com/GameDev46/fractal_raytracer/issues">
+    <img src="https://img.shields.io/github/issues/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="issues - fractal_raytracer">
+</a>
 
 <div align="left">
 <a href="https://gamedev46.github.io/fractal_raytracer/"><
