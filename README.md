@@ -13,7 +13,6 @@
 ![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
 
 <br>
-<br>
     
 <a href="https://github.com/GameDev46/fractal_raytracer">
     <img src="https://img.shields.io/github/stars/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="stars - fractal_raytracer">
@@ -22,7 +21,6 @@
     <img src="https://img.shields.io/github/forks/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="forks - fractal_raytracer">
 </a>
 
-<br>
 <br>
 
 <a href="https://github.com/GameDev46/fractal_raytracer/releases/">
