@@ -2,8 +2,6 @@
     <img src="https://img.shields.io/static/v1?label=GameDev46&message=fractal_raytracer&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
 </a>
 
-<br>
-
 ![Static Badge](https://img.shields.io/badge/Version-1.1.7-green?style=for-the-badge&labelColor=1f1f22)
 
 
