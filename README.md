@@ -1,6 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/Version-1.1.7-green?style=for-the-badge&labelColor=1f1f22)
 
-<br>
 
 ![Static Badge](https://img.shields.io/badge/-HTML5-1f1f22?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
@@ -40,6 +39,9 @@
     <img src="https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&labelColor=1f1f22" alt="View site - GH Pages">
 </a>
 </div>
+
+<br>
+<br>
 
 <p align="left">
 <a href="https://twitter.com/gamedev46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamedev46" height="30" width="40" /></a>
