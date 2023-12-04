@@ -10,8 +10,6 @@
 ![Static Badge](https://img.shields.io/badge/-HTML5-1f1f22?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
-
-<br>
     
 <a href="https://github.com/GameDev46/fractal_raytracer">
     <img src="https://img.shields.io/github/stars/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="stars - fractal_raytracer">
