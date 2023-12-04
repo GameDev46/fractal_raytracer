@@ -1,8 +1,9 @@
-<a href="https://github.com/GameDev46/fractal_raytracer" title="Go to GitHub repo">
-    <img src="https://img.shields.io/static/v1?label=GameDev46&message=fractal_raytracer&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
+<a href="https://github.com/GameDev46" title="Go to GitHub repo">
+    <img src="https://img.shields.io/static/v1?label=GameDev46&message=Profile&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
+    <img src="https://img.shields.io/badge/Version-1.1.7-green?style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
 </a>
 
-![Static Badge](https://img.shields.io/badge/Version-1.1.7-green?style=for-the-badge&labelColor=1f1f22)
+![Static Badge]()
 
 
 ![Static Badge](https://img.shields.io/badge/-HTML5-1f1f22?style=for-the-badge&logo=HTML5)
