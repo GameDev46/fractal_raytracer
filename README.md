@@ -26,12 +26,11 @@
     <img src="https://img.shields.io/github/tag/GameDev46/fractal_raytracer?include_prereleases=&sort=semver&color=Green&style=for-the-badge&labelColor=1f1f22" alt="GitHub tag">
 </a>
 
-<br>
-
 <a href="https://github.com/GameDev46/fractal_raytracer/issues">
     <img src="https://img.shields.io/github/issues/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="issues - fractal_raytracer">
 </a>
 
+<br>
 <br>
 
 <div align="left">
@@ -40,7 +39,6 @@
 </a>
 </div>
 
-<br>
 <br>
 
 <p align="left">
