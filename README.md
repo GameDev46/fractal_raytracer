@@ -54,6 +54,19 @@ A 3D fractal renderer that creates high resolution photorealistic images of your
 
 The program makes use of a technique called [raymarching](https://en.wikipedia.org/wiki/Ray_marching#:~:text=Ray%20marching%20is%20a%20class,some%20function%20at%20each%20step.) to estimate the distances to the 3D fractals and the basic geometric shapes. To represent a physical object in raymarching you need a sign distance function (SDF) that simply return the shortest distance to that object when give any 3D point in space. You can find each scene's SDF in its corresponding shader file (e.g. [shader0.glsl](/shaders/shader0.glsl) contains the SDF of the menger sponge on line 195 - sorry for the terrible naming system), which is called in the getSceneSDF() (line 239) function (which is named the same in every shader file)
 
+# Screenshots
+
+<p>
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/9238d230-cc2e-47b4-9e6a-24853324f63c" width="500">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/1889d98e-16dd-4b11-a95d-49acf06b7ee9" width="500">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/00235a4c-afb0-4ddb-b4da-a2a0e209a3bf" width="500">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/03fc2b4e-fbad-4c53-9595-e7e6364bb3ed" width="500">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/b58a9650-b98f-4b5c-ac72-5f84c752fcbc" width="500">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/a12692f5-dee1-417d-802a-ecca860a6485" width="500">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/77f43222-ca7f-446c-8608-ed40ee36f2b8" width="500">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/c1cbaa1a-095b-4243-be21-78dd52487fa8" width="500">
+</p>
+
 ## Website
 
 You can run the program in realtime [here, on its website](https://gamedev46.github.io/fractal_raytracer/) as it is programmed using HTML, CSS, JS and GLSL which is implemented using the WebGL shader library
