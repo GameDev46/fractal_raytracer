@@ -3,8 +3,6 @@
     <img src="https://img.shields.io/badge/Version-1.1.7-green?style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - fractal_raytracer">
 </a>
 
-![Static Badge]()
-
 
 ![Static Badge](https://img.shields.io/badge/-HTML5-1f1f22?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
