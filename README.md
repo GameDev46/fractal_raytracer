@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/forks/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="forks - fractal_raytracer">
 </a>
 <a href="https://github.com/GameDev46/fractal_raytracer/issues">
-    <img src="https://img.shields.io/github/issues/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22"/>
+    <img src="https://img.shields.io/github/issues/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22&color=blue"/>
  </a>
 
 <br>
