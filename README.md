@@ -19,6 +19,7 @@
 </a>
 
 <br>
+<br>
 
 <a href="https://github.com/GameDev46/fractal_raytracer/releases/">
     <img src="https://img.shields.io/github/tag/GameDev46/fractal_raytracer?include_prereleases=&sort=semver&color=Green&style=for-the-badge&labelColor=1f1f22" alt="GitHub tag">
