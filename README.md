@@ -57,14 +57,14 @@ The program makes use of a technique called [raymarching](https://en.wikipedia.o
 # Screenshots
 
 <p>
-    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/9238d230-cc2e-47b4-9e6a-24853324f63c" width="500">
-    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/1889d98e-16dd-4b11-a95d-49acf06b7ee9" width="500">
-    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/00235a4c-afb0-4ddb-b4da-a2a0e209a3bf" width="500">
-    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/03fc2b4e-fbad-4c53-9595-e7e6364bb3ed" width="500">
-    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/b58a9650-b98f-4b5c-ac72-5f84c752fcbc" width="500">
-    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/a12692f5-dee1-417d-802a-ecca860a6485" width="500">
-    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/77f43222-ca7f-446c-8608-ed40ee36f2b8" width="500">
-    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/c1cbaa1a-095b-4243-be21-78dd52487fa8" width="500">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/9238d230-cc2e-47b4-9e6a-24853324f63c" width="400">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/1889d98e-16dd-4b11-a95d-49acf06b7ee9" width="400">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/00235a4c-afb0-4ddb-b4da-a2a0e209a3bf" width="400">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/03fc2b4e-fbad-4c53-9595-e7e6364bb3ed" width="400">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/b58a9650-b98f-4b5c-ac72-5f84c752fcbc" width="400">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/a12692f5-dee1-417d-802a-ecca860a6485" width="400">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/77f43222-ca7f-446c-8608-ed40ee36f2b8" width="400">
+    <img src="https://github.com/GameDev46/fractal_raytracer/assets/76485006/c1cbaa1a-095b-4243-be21-78dd52487fa8" width="400">
 </p>
 
 ## Website
