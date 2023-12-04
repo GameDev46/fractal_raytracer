@@ -1,4 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Version-1.1.7-green?style=for-the-badge&labelColor=1f1f22)
+
+<br>
+
 ![Static Badge](https://img.shields.io/badge/-HTML5-1f1f22?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
@@ -24,9 +27,13 @@
     <img src="https://img.shields.io/github/tag/GameDev46/fractal_raytracer?include_prereleases=&sort=semver&color=Green&style=for-the-badge&labelColor=1f1f22" alt="GitHub tag">
 </a>
 
+<br>
+
 <a href="https://github.com/GameDev46/fractal_raytracer/issues">
     <img src="https://img.shields.io/github/issues/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="issues - fractal_raytracer">
 </a>
+
+<br>
 
 <div align="left">
 <a href="https://gamedev46.github.io/fractal_raytracer/">
