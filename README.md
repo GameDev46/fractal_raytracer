@@ -8,12 +8,15 @@
 ![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
     
-<a href="https://github.com/GameDev46/fractal_raytracer">
+<a href="https://github.com/GameDev46/fractal_raytracer/stars">
     <img src="https://img.shields.io/github/stars/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="stars - fractal_raytracer">
 </a>
-<a href="https://github.com/GameDev46/fractal_raytracer">
+<a href="https://github.com/GameDev46/fractal_raytracer/forks">
     <img src="https://img.shields.io/github/forks/GameDev46/fractal_raytracer?style=for-the-badge&labelColor=1f1f22" alt="forks - fractal_raytracer">
 </a>
+<a href="https://github.com/GameDev46/fractal_raytracer/issues">
+    <img src="https://img.shields.io/github/issues/GameDev46/fractal_raytracer"/>
+ </a>
 
 <br>
 <br>
